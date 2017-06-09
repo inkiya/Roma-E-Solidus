@@ -24,10 +24,10 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a Roma-E-Solidus address (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a Roma-E-Solidus address (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a Roma-E-Solidus address (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a Roma-E-Solidus address (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)"));
     ui->signatureIn_VM->setPlaceholderText(tr("Enter Roma-E-Solidus signature"));
 #endif
 

@@ -718,7 +718,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+69"/>
-        <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
+        <source>There is a transaction fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1821,8 +1821,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roma-E-Solidus address (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</source>
-        <translation>Syötä Roma-E-Solidus-osoite (esim. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</translation>
+        <source>Enter a Roma-E-Solidus address (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</source>
+        <translation>Syötä Roma-E-Solidus-osoite (esim. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1954,7 +1954,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</source>
+        <source>The address to send the payment to (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1995,8 +1995,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roma-E-Solidus address (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</source>
-        <translation>Syötä Roma-E-Solidus-osoite (esim. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</translation>
+        <source>Enter a Roma-E-Solidus address (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</source>
+        <translation>Syötä Roma-E-Solidus-osoite (esim. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</translation>
     </message>
 </context>
 <context>
@@ -2019,8 +2019,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</translation>
+        <source>The address to sign the message with (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2083,8 +2083,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9) </translation>
+        <source>The address the message was signed with (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2099,8 +2099,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roma-E-Solidus address (e.g. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</source>
-        <translation>Syötä Roma-E-Solidus-osoite (esim. GQJ1gpoyJY3dGNS2GTmTsaLcyhe9hmHKB9)</translation>
+        <source>Enter a Roma-E-Solidus address (e.g. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</source>
+        <translation>Syötä Roma-E-Solidus-osoite (esim. RY7R2Wxw89vNSCPNxbkFZgxb2njk8wyJLa)</translation>
     </message>
     <message>
         <location line="-2"/>
