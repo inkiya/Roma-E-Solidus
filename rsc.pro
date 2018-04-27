@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = Roma-E-Solidus-qt
-VERSION = 1.1.0.0
+VERSION = 2.0.0.0
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += ENABLE_WALLET
